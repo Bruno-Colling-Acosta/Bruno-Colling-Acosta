@@ -1,9 +1,5 @@
 # Bruno Colling Acosta
 
-```text
-¸ .· ´ ( `¸ ¸ ¸ . ·´ ( `¸  ¸ ¸.· ´ ( `¸
-```
-
 Geophysicist | Physics graduate from PUCRS | Oceanography M.Sc. candidate @ UFSC
 
 Physical Oceanography | Surf Science | Stereo-video systems | Coastal video imaging | Computer vision | 3D reconstruction
