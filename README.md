@@ -64,3 +64,5 @@ For now, you can watch the recording of my second M.Sc. qualification presentati
 In addition, the repository below contains references and materials used throughout the development of the research and related projects:
 
 https://github.com/Bruno-Colling-Acosta/Mestrado-Referencias
+
+**¸.· ´  ( `¸ ¸ ¸.· ´  ( `¸ ¸ ¸.· ´  ( `¸** 
