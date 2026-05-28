@@ -1,0 +1,14 @@
+﻿# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/settings.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Raw heavy media (keep optimized assets in img/web tracked)
+img/*.tif
+img/*.mp4
+img/nazare.gif

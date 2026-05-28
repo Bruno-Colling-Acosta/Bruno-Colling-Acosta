@@ -11,7 +11,16 @@ Physical Oceanography | Surf Science | Stereo-video systems | Coastal video imag
 **ESTIMATING THE OVERTURNING SHAPE OF EXTREME WAVES AT NAZARE, PORTUGAL, BASED ON STEREO VIDEO MEASUREMENTS**
 
 <p align="center">
-  <img src="img/nazare.gif" width="100%" alt="3D point cloud visualization of an overturning extreme wave at Nazaré, Portugal">
+  <img src="img/web/stereo_left.jpg" width="49%" alt="Stereo-video frame 1 from Nazaré extreme wave sequence">
+  <img src="img/web/stereo_right.jpg" width="49%" alt="Stereo-video frame 2 from Nazaré extreme wave sequence">
+</p>
+
+<p align="center">
+  <em>Stereo-video frames used for 3D reconstruction of an extreme wave at Nazaré, Portugal.</em>
+</p>
+
+<p align="center">
+  <img src="img/web/nazare.gif" width="90%" alt="3D point cloud visualization of an overturning extreme wave at Nazaré, Portugal">
 </p>
 
 <p align="center">
@@ -25,6 +34,24 @@ Physical Oceanography | Surf Science | Stereo-video systems | Coastal video imag
 - Transforming ocean imagery into quantitative and physically interpretable information.
 
 - Experimental applications of computer vision and deep learning techniques to stereo-video and coastal video imaging data.
+
+<p align="center">
+  <img src="img/web/imagem_max.jpg" width="32%" alt="Maximum pixel image product">
+  <img src="img/web/imagem_media.jpg" width="32%" alt="Mean pixel image product">
+  <img src="img/web/imagem_min.jpg" width="32%" alt="Minimum pixel image product">
+</p>
+
+<p align="center">
+  <em>Image products derived from coastal video imaging workflows.</em>
+</p>
+
+<p align="center">
+  <img src="img/web/shoreline_kmeans.png" width="90%" alt="Coastline detection using K-means clustering">
+</p>
+
+<p align="center">
+  <em>Experimental coastline detection using K-means clustering.</em>
+</p>
 
 ---
 
