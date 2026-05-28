@@ -1,6 +1,4 @@
-﻿# Bruno Colling Acosta
-
-. . · ´  ( `· _¸ . · ´  ( `· . .  . . · ´ ( `· _¸ . · ´ ( `· . .
+# Bruno Colling Acosta
 
 Geophysicist | Physics graduate from PUCRS | Oceanography M.Sc. candidate @ UFSC
 
@@ -51,19 +49,6 @@ Physical Oceanography | Surf Science | Stereo-video systems | Coastal video imag
 
 <p align="center">
   <em>Experimental coastline detection using K-means clustering.</em>
-</p>
-
----
-
-## Visual Notes
-
-<p align="center">
-  <img src="img/reconstruction.gif" width="49%" alt="3D reconstruction sequence">
-  <img src="img/wave.gif" width="49%" alt="Wave dynamics sequence">
-</p>
-
-<p align="center">
-  <img src="img/pointcloud.png" width="70%" alt="Point cloud visualization">
 </p>
 
 ---
