@@ -1,8 +1,7 @@
-﻿# OS / editor
+# OS / editor
 .DS_Store
 Thumbs.db
-.vscode/*
-!.vscode/settings.json
+.vscode/
 
 # Python cache
 __pycache__/
@@ -12,3 +11,10 @@ __pycache__/
 img/*.tif
 img/*.mp4
 img/nazare.gif
+img/imagem_max.png
+img/imagem_media.png
+img/imagem_min.png
+img/linhadecosta-kmeans-plotfinal.png
+img/pointcloud.png
+img/reconstruction.gif
+img/wave.gif
