@@ -1,7 +1,7 @@
 # Bruno Colling Acosta
 
 ```text
-¸ .· ´ ( `¸ ¸ ¸ . ·´ ( `¸  ¸ ¸.· ´ git( `¸
+¸ .· ´ ( `¸ ¸ ¸ . ·´ ( `¸  ¸ ¸.· ´ ( `¸
 ```
 
 Geophysicist | Physics graduate from PUCRS | Oceanography M.Sc. candidate @ UFSC
